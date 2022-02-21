@@ -1,4 +1,4 @@
-# AgroCD
+# ArgoCD
 
 ## Commands
 
